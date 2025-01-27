@@ -1,8 +1,11 @@
+import Login from "./assets/page/login"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Login/>
+    </div>
   )
 }
 
