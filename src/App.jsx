@@ -1,4 +1,4 @@
-import Login from "./assets/page/login"
+import Login from "./pages/Login"
 
 
 const App = () => {
