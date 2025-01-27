@@ -1,4 +1,5 @@
 .loginPage{
     height: 50vh;
     width: 50%;
+    display: block;
 }
