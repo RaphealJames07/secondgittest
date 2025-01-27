@@ -1,8 +1,10 @@
-
+import '../Styles/login.css'
 
 const Signup = () => {
   return (
-    <div>Signup</div>
+    <div>
+      <h1>Signup</h1>
+    </div>
   )
 }
 
